@@ -1,0 +1,29 @@
+# Outils scientifiques et machine learning
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+
+# Développement et API
+fastapi
+uvicorn
+
+# Gestion de la base de données MySQL
+mysql-connector-python
+sqlalchemy
+
+
+# Outils pour le machine learning et le suivi d’expériences
+mlflow
+
+# Tests et qualité du code
+pytest
+pytest-mock
+flake8
+bandit
+black
+
+# Jupyter Notebook
+jupyter
+

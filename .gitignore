@@ -1,0 +1,81 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# Byte-compiled / cached files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug files
+logs/
+*.log
+nohup.out
+debug.log
+
+# Environment variables / secrets (DO NOT STORE CREDENTIALS IN GIT)
+.env
+*.env
+
+# Data files
+*.csv
+*.json
+*.sqlite3
+*.db
+
+# Compiled files
+*.out
+*.o
+*.exe
+*.dll
+*.a
+*.lib
+
+# Package managers
+node_modules/
+dist/
+build/
+*.egg
+*.whl
+
+# Test coverage reports
+.coverage
+htmlcov/
+*.cover
+.cache
+nosetests.xml
+coverage.xml
+*.pytest_cache/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Docker and deployment files
+docker-compose.override.yml
+
+# Machine learning models
+*.h5
+*.hdf5
+*.joblib
+*.pkl
+
+# Temporary files
+tmp/
+temp/
+*.swp
+*~
+.DS_Store
+Thumbs.db
